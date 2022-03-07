@@ -23,8 +23,6 @@ Print of the finished project.
   </img>
 </h1>
 
-![plot](./image/snapshot-1.png)
-
 ### Libraries used
 
 - [axios](https://www.npmjs.com/package/axios)
