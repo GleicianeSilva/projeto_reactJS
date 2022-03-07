@@ -18,6 +18,11 @@ We will create an application using the github public api.
 
 Print of the finished project.
 
+<h1 align="center"> 
+  <img align="center" src="img.jpg" alt="Imagem de vizualização do site">
+  </img>
+</h1>
+
 ![plot](./image/snapshot-1.png)
 
 ### Libraries used
